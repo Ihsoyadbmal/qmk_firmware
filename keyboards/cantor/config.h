@@ -7,6 +7,10 @@
 #define SERIAL_USART_TX_PIN B6     // USART TX pin
 #define SERIAL_USART_RX_PIN B7     // USART RX pin
 
+#define TAPPING_TERM 200
+#define TAPPING_TOGGLE 2
+
+// #define COMBO_COUNT = 8
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
